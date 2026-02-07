@@ -1,2 +1,4 @@
 # agentic-ai-design-patterns
-Break down of Agentic AI design patterns
+Simple break down of popular Agentic AI design patterns
+
+## IN PROGRESS 
